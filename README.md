@@ -61,7 +61,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  1. Download Repository from github https://github.com/IBMDataScience/DSX-Lab to local directory.
  
- >  <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Zip.png"/>
+ >  <img src="https://github.com/IBMDataScience/DSX-Lab/blob/master/images/Download.png"/>
  
  2. Unzip repo zip files locally.
 
