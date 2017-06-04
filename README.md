@@ -59,7 +59,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 # Step 3. Download Repository.
 ## If you are at IBM Booth, then you can skip this part as the files are located on your desktop.
 
- 1. Download Repository from github https://github.com/IBMDataScience/WOW2016 to local directory.
+ 1. Download Repository from github https://github.com/IBMDataScience/DSX-Lab to local directory.
  
  >  <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Zip.png"/>
  
